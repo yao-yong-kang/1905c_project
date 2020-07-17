@@ -8,7 +8,4 @@ from django import Http
 sfkjslfjalsfjasadfsadf
 
 
-xky 
-
-def reg(request):
-    return  HttpResponse('dfsasafsafas')
+'啥也不是哦'
